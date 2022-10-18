@@ -1,0 +1,13 @@
+package jason.springframework.sfgpetcinic;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SfgPetCinicApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SfgPetCinicApplication.class, args);
+    }
+
+}
