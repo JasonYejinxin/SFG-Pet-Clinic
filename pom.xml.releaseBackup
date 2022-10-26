@@ -5,7 +5,7 @@
     <packaging>pom</packaging>
     <groupId>jason.springframework</groupId>
     <artifactId>sfg-pet-cinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -56,6 +56,6 @@
 
   <scm>
       <developerConnection>scm:git:https://github.com/JasonYejinxin/SFG-Pet-Clinic.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sfg-pet-cinic-0.0.1</tag>
   </scm>
 </project>
