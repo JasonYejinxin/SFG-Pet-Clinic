@@ -1,4 +1,4 @@
-package jason.springframework.sfgpetcinic.model;
+package model;
 
 public class Person {
     private String firstName;
