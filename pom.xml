@@ -14,7 +14,7 @@
     </parent>
     <groupId>jason.springframework</groupId>
     <artifactId>sfg-pet-cinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>sfg-pet-cinic</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -38,13 +38,13 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.5.3</version>
                 <configuration>
-                    <excludes>
-                        <exclude>
-                            <groupId>org.projectlombok</groupId>
-                            <artifactId>lombok</artifactId>
-                        </exclude>
-                    </excludes>
+                    <goals>install</goals>
                 </configuration>
             </plugin>
         </plugins>
@@ -53,6 +53,5 @@
 
   <scm>
       <developerConnection>scm:git:https://github.com/JasonYejinxin/SFG-Pet-Clinic.git</developerConnection>
-    <tag>0.0.1</tag>
   </scm>
 </project>
