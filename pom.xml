@@ -56,5 +56,6 @@
 
   <scm>
       <developerConnection>scm:git:https://github.com/JasonYejinxin/SFG-Pet-Clinic.git</developerConnection>
+    <tag>sfg-pet-cinic-0.0.1</tag>
   </scm>
 </project>
