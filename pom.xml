@@ -57,6 +57,5 @@
 
   <scm>
       <developerConnection>scm:git:https://github.com/JasonYejinxin/SFG-Pet-Clinic.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
 </project>
