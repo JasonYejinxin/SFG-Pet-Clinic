@@ -1,11 +1,13 @@
+package sfgpetclinic;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SfgPetCinicApplication {
+public class SfgPetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SfgPetCinicApplication.class, args);
+        SpringApplication.run(SfgPetClinicApplication.class, args);
     }
 
 }

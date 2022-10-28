@@ -1,0 +1,12 @@
+model/Pet.class
+services/CrudService.class
+model/Person.class
+services/vetService.class
+model/Vet.class
+services/PetService.class
+model/PetType.class
+services/OwnerService.class
+model/BaseEntity.class
+model/Owner.class
+services/map/OwnerServiceMap.class
+services/map/AbstractMapService.class
