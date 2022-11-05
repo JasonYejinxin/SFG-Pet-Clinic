@@ -1,6 +1,7 @@
 package services;
 
-import java.security.acl.Owner;
+import model.Owner;
+import model.Person;
 
 public interface OwnerService extends CrudService<Owner,Long>{
 
