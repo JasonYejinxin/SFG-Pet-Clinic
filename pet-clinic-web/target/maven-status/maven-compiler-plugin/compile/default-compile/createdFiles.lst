@@ -1,2 +1,5 @@
 sfgpetclinic/SfgPetClinicApplication.class
 sfgpetclinic/controllers/IndexController.class
+sfgpetclinic/bootstrap/DataLoader.class
+sfgpetclinic/controllers/OwnerController.class
+sfgpetclinic/controllers/VetController.class
