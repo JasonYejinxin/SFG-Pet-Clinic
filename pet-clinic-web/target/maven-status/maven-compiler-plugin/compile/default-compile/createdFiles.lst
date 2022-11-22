@@ -1,5 +1,5 @@
-sfgpetclinic/SfgPetClinicApplication.class
-sfgpetclinic/controllers/IndexController.class
-sfgpetclinic/bootstrap/DataLoader.class
-sfgpetclinic/controllers/OwnerController.class
-sfgpetclinic/controllers/VetController.class
+jason/springframework/sfgpetclinic/controllers/OwnerController.class
+jason/springframework/sfgpetclinic/controllers/VetController.class
+jason/springframework/sfgpetclinic/controllers/IndexController.class
+jason/springframework/sfgpetclinic/SfgPetClinicApplication.class
+jason/springframework/sfgpetclinic/bootstrap/DataLoader.class
